@@ -45,7 +45,7 @@ Current implementation focuses on the Moderate Reduction scenario (Scenario 2), 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-organization/emitrix-climate-scenario.git
+   git clone https://github.com/enigma-kun/emitrix-climate-scenario.git
    cd emitrix-climate-scenario
    ```
 
