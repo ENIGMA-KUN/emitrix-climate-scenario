@@ -161,25 +161,25 @@ See the [Data Requirements Guide](docs/data-requirements.md) for detailed specif
 
 ## Development Roadmap
 
-### Phase 2: Extended Scenario Analysis (Q2 2025)
+### Phase 2: Extended Scenario Analysis
 - Implement Scenario 1 (BAU) with regulatory risk assessment
 - Add Scenario 3 (Accelerated Reduction - 50% by 2030)
 - Extend modeling capability to 2050 for SBTi alignment
 - Add TCFD-aligned report generation
 
-### Phase 3: Financial Enhancement (Q3 2025)
+### Phase 3: Financial Enhancement 
 - Implement Scenario 4 (Financial Impact Analysis)
 - Add interactive marginal abatement cost curve visualization
 - Enhance tax benefit calculation
 - Implement capital allocation optimization
 
-### Phase 4: Scope Expansion (Q4 2025)
+### Phase 4: Scope Expansion 
 - Add Scope 2 emissions modeling
 - Implement Scope 3 emissions screening
 - Add physical risk assessment capabilities
 - Develop value chain modeling
 
-### Phase 5: Advanced Analytics (Q1 2026)
+### Phase 5: Advanced Analytics 
 - Implement ML-powered optimization for reduction pathways
 - Add uncertainty analysis with Monte Carlo simulations
 - Create automated anomaly detection for emissions data
