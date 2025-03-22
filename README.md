@@ -208,10 +208,6 @@ The platform aligns with key climate-related frameworks:
 - Organizational boundaries (✅ Implemented)
 - Base year emissions (✅ Implemented)
 
-## Contributing
-
-We welcome contributions to the Emitrix Climate Scenario Analysis Platform. Please see our [contributing guidelines](CONTRIBUTING.md) for details.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
